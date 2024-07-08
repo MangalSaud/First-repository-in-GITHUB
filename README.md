@@ -25,7 +25,7 @@ HTML CODE
 				<h2 class="logo-heading">Emrit Diyal</h2> 
 			</div> 
 			<div class="hamburger" id="hamburger"> 
-				<i class="fas fa-bars hamburger-icon"></i> 
+				<i class="fas fa-bars hamburger-icon"></i>
 				<i class="fas fa-times cross-icon"></i> 
 			</div> 
 			<div class="menu"> 
@@ -65,9 +65,9 @@ HTML CODE
 		<div class="intro"> 
 			<div class="headings"> 
 				<h3 class="greet-heading">Hello, I'm</h3> 
-				<h1 class="my-heading">Emrit Diyal</h1> 
+				<h1 class="my-heading">Mangal Saud</h1> 
 				<h4 class="sub-heading"> 
-					A Software Engineer with 3 years of Experience. 
+					A beginner Full stack Web developer and UI/UX Designing Learner
 				</h4> 
 			</div> 
 			<div class="intro-buttons"> 
